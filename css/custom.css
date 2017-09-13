@@ -1,0 +1,87 @@
+body{
+    background-color: #ffffff;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Tangerine', serif;
+    color: #6a6666;
+}
+
+.crud{
+    width: auto;
+    color: white !important;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.sub_msg{
+    text-align: center;
+    padding: 10px 0px 20px 0px;
+}
+
+.signup{
+    border: 1px solid #e7e7e7;
+    text-align: center;
+    width: 60%;
+    height: auto;
+    margin: auto;
+}
+
+.input_group{
+    margin: 0px 20px 20px 20px;
+}
+
+.input_group input{
+    height: 40px;
+    font-size: 20px;
+}
+
+input[type="submit"]{
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #1e8bc3;
+    color: white !important;
+}
+
+#errorEmail, #errorFirstname, #errorLastname, #errorPassword{
+    color: red;
+}
+
+#error_Email, #error_Password{
+    color: red;
+}
+
+.jumbo{
+    margin: 0;
+    padding-top: 20px;
+    height: 210px;
+    background-color: #02818a;
+    color: white;
+}
+
+.rowData{
+    margin: 0 auto;
+    width: 80%;
+}
+
+.thumbnail{
+    height: 250px;
+    padding-top: 18px;
+}
+
+.thumbnail a{
+    width: 100%;
+    height: 170px;
+    overflow: hidden;
+    display: block;
+}
+
+.email_alert{
+    margin: 0px 20px 20px 20px;
+}
+
+
+
+
+
